@@ -1,0 +1,152 @@
+{
+  "guilds": {
+    "1479514234176933948": {
+      "staffRoleId": "1479540580332732416",
+      "categoryId": "1520855027961299135",
+      "logChannelId": "1479542166647865539",
+      "transcriptChannelId": "1479542190765117630",
+      "language": "fr",
+      "color": "#5865F2",
+      "counter": 0,
+      "texts": {},
+      "defaultQuestions": [
+        "Pseudo ?",
+        "Explique ton probleme",
+        "Preuve ?"
+      ]
+    },
+    "1518631087671345272": {
+      "staffRoleId": "",
+      "categoryId": "",
+      "logChannelId": "",
+      "transcriptChannelId": "",
+      "language": "fr",
+      "color": "#5865F2",
+      "counter": 0,
+      "defaultQuestions": [
+        "Pseudo ?",
+        "Explique ton probleme",
+        "Preuve ?"
+      ],
+      "texts": {}
+    }
+  },
+  "tickets": {},
+  "panels": {
+    "royhspho": {
+      "id": "royhspho",
+      "guildId": "1479514234176933948",
+      "type": "ticket",
+      "title": "Support",
+      "description": "Clique sur le bouton pour ouvrir un ticket.",
+      "buttonLabel": "Ouvrir un ticket",
+      "questions": [
+        "Explique ta demande",
+        "As-tu une preuve ou capture ?",
+        "Quel est ton pseudo ?"
+      ]
+    },
+    "zekmgq9h": {
+      "id": "zekmgq9h",
+      "guildId": "1479514234176933948",
+      "type": "ticket",
+      "title": "Support",
+      "description": "Clique sur le bouton pour ouvrir un ticket.",
+      "buttonLabel": "Ouvrir un ticket",
+      "questions": [
+        "Explique ta demande",
+        "As-tu une preuve ou capture ?",
+        "Quel est ton pseudo ?"
+      ]
+    },
+    "jgtf59bg": {
+      "id": "jgtf59bg",
+      "guildId": "1479514234176933948",
+      "type": "ticket",
+      "title": "BUY A  PRODUCT",
+      "description": "QQQQQQ",
+      "buttonLabel": "Ouvrir un ticket",
+      "questions": [
+        "Explique ta demande",
+        "As-tu une preuve ou capture ?",
+        "Quel est ton pseudo ?"
+      ]
+    },
+    "sctpigw7": {
+      "id": "sctpigw7",
+      "guildId": "1479514234176933948",
+      "type": "ticket",
+      "title": "Support",
+      "description": "Clique sur le bouton pour ouvrir un ticket.",
+      "buttonLabel": "Ouvrir un ticket",
+      "questions": [
+        "Explique ta demande",
+        "As-tu une preuve ou capture ?",
+        "Quel est ton pseudo ?"
+      ]
+    },
+    "a6qq34l6": {
+      "id": "a6qq34l6",
+      "guildId": "1479514234176933948",
+      "type": "ticket",
+      "title": "Support",
+      "description": "Clique sur le bouton pour ouvrir un ticket.",
+      "buttonLabel": "Ouvrir un ticket",
+      "questions": [
+        "Explique ta demande",
+        "As-tu une preuve ou capture ?",
+        "Quel est ton pseudo ?"
+      ]
+    },
+    "xz372bs4": {
+      "id": "xz372bs4",
+      "guildId": "1518631087671345272",
+      "channelId": "1520852396123885618",
+      "type": "ticket",
+      "title": "BUY ACCOUNT",
+      "description": "Click the button to open a ticket.",
+      "footer": "Systeme de tickets",
+      "buttonLabel": "Select the appropriate category...",
+      "questions": [
+        "What do you want to buy?"
+      ],
+      "selectOptions": [
+        {
+          "id": "1",
+          "label": "FIVEM ACCOUNT",
+          "emoji": "💳"
+        },
+        {
+          "id": "2",
+          "label": "FORTNITE ACCOUNT",
+          "emoji": "💳"
+        }
+      ],
+      "categoryId": "1520852364020547705",
+      "staffRoleId": "1518631087696380067",
+      "messageId": "1521207431303135345",
+      "messageIds": [
+        "1521207431303135345"
+      ]
+    }
+  },
+  "autoresponders": {},
+  "stats": {
+    "1479514234176933948": {
+      "messages": 1,
+      "messagesByChannel": {
+        "1479542166647865539": 1
+      },
+      "firstTrackedAt": "2026-06-29T17:53:24.556Z",
+      "lastMessageAt": "2026-06-29T18:45:13.614Z"
+    },
+    "1518631087671345272": {
+      "messages": 12,
+      "messagesByChannel": {
+        "1521232073933721690": 12
+      },
+      "firstTrackedAt": "2026-06-29T19:20:30.862Z",
+      "lastMessageAt": "2026-06-29T19:20:35.060Z"
+    }
+  }
+}
